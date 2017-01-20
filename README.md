@@ -1,6 +1,6 @@
 # The Web Playbook
 
-The place to discuss best practices and workflows for web technoligies at Agens.
+The place to discuss best practices and workflows for web technologies at Agens.
 
 ## Why we need it?
 
